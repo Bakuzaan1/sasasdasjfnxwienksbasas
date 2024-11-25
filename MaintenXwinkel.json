@@ -1,4 +1,5 @@
-   {
-       "isMaintenanceMode": false,
-       "SendChat": "XWINKELS UPDATE"
-   }
+{
+  "isMaintenanceMode": true,
+  "SendChat": "Update Xwinkels",
+  "updateData": null
+}
