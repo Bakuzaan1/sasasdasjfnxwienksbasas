@@ -1,6 +1,6 @@
 {
-  "isMaintenanceMode": true,
-  "SendChat": "update",
+  "isMaintenanceMode": false,
+  "SendChat": "",
   "updateData": null,
-  "timestamp": "2024-12-03T09:01:55.464Z"
+  "timestamp": "2024-12-03T09:11:48.582Z"
 }
